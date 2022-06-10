@@ -79,7 +79,7 @@ $(document).ready(() => {
     $('#marquee').append(`<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://discord.gg/NyVcunUFSt" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « steam artworks »     </a>`);
+    $('#marquee').append(`<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « steam artworkss »     </a>`);
     $('#marquee').append(`<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://discord.gg/NyVcunUFSt" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
