@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['professional moderator', 'trashtalker', 'steam artwork designer', 'full time money waster'];
+  brandDescription = ['professional moderator', 'trashtalker', 'steam artwork designer', 'full time money waster', 'contact: toasty@aggro.email'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
