@@ -261,7 +261,7 @@ const skipIntro = () => {
       app.videoElement.addEventListener(
         'timeupdate',
         () => {
-          $.cookie('videoTime', app.videoElement.currentTime, { expires: 0 });
+          
         },
         false
       );
