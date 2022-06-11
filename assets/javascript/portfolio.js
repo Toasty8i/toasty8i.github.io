@@ -205,7 +205,7 @@ $(document).ready(() => {
 
   if (mobileAndTabletCheck()) {
     $("#background").replaceWith(
-      '<div id="background" style="background-image: url(assets/others/drift1.mp4);"></div>'
+      '<div id="background" style="background-video": url(assets/others/drift1.mp4);"></div>'
     );
 
     app.shouldIgnoreVideo = true;
