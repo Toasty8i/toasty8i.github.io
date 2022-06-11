@@ -34,11 +34,6 @@ const ipgeolocation =
 
 const timeouts = [];
 
-const mobileAndTabletCheck = () =>
-  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-    navigator.userAgent
-  );
-
 $(document).ready(() => {
   const links = [
     {
