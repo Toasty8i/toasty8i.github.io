@@ -205,9 +205,9 @@ $(document).ready(() => {
 
   if (mobileAndTabletCheck()) {
     $("#background").replaceWith(
-      <video autoplay muted loop id="background">
+      `<video autoplay muted loop id="background">
       <source src="assets/others/drift1.mp4" type="video/mp4" />
-      </video>
+      </video>`
     );
 
     app.shouldIgnoreVideo = true;
