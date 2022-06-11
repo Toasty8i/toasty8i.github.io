@@ -34,6 +34,11 @@ const ipgeolocation =
 
 const timeouts = [];
 
+const mobileAndTabletCheck = () =>
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+    navigator.userAgent
+  );
+
 $(document).ready(() => {
   const links = [
     {
@@ -196,6 +201,14 @@ $(document).ready(() => {
       $("#marquee").append(
         ' <img class="emoticon" src="assets/others/mgh_17.png"> '
       );
+  }
+
+  if (mobileAndTabletCheck()) {
+    $("#background").replaceWith(
+      '<div id="background" style="background-image: url(assets/others/drift1.mp4);"></div>'
+    );
+
+    app.shouldIgnoreVideo = true;
   }
 
   app.titleChanger(["toasty8i.github.io"]);
