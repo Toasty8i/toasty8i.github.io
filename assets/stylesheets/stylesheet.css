@@ -24,7 +24,7 @@ a {
 body,
 input {
   color: #e4e3e3;
-  background-color: #000;
+  background-color: rgb(11, 8, 189);
 }
 
 @font-face {
@@ -61,7 +61,7 @@ pre {
   font-size: 1.15em;
 }
 
-.box,
+,
 body,
 input {
   background-color: #000;
