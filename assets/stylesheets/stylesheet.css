@@ -24,7 +24,7 @@ a {
 body,
 input {
   color: #e4e3e3;
-  background-color: rgb(11, 8, 189);
+  background-color: #000;
 }
 
 @font-face {
