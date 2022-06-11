@@ -198,7 +198,6 @@ $(document).ready(() => {
       );
   }
 
-
   app.titleChanger(["toasty8i.github.io"]);
   app.iconChanger([
     "assets/icons/roses/rose1.jpg",

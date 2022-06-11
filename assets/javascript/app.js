@@ -11,8 +11,24 @@ class _app {
   skippedIntro = false;
   backgroundToggler = false;
   shouldIgnoreVideo = false;
-  effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['professional moderator', 'trashtalker', 'steam artwork designer', 'full time money waster', 'contact: toasty@teamaggro.dev'];
+  effects = [
+    "bounce",
+    "flash",
+    "pulse",
+    "rubberBand",
+    "shake",
+    "swing",
+    "tada",
+    "wobble",
+    "jello",
+  ];
+  brandDescription = [
+    "professional moderator",
+    "trashtalker",
+    "steam artwork designer",
+    "full time money waster",
+    "contact: toasty@teamaggro.dev",
+  ];
 
   titleChanger = (text, delay) => {
     if (!text) return;
@@ -36,13 +52,15 @@ class _app {
 
     setInterval(() => {
       if (counter < urls.length) {
-        const link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+        const link =
+          document.querySelector("link[rel*='icon']") ||
+          document.createElement("link");
 
-        link.type = 'image/x-icon';
-        link.rel = 'shortcut icon';
+        link.type = "image/x-icon";
+        link.rel = "shortcut icon";
         link.href = urls[counter];
 
-        document.getElementsByTagName('head')[0].appendChild(link);
+        document.getElementsByTagName("head")[0].appendChild(link);
       } else counter = 0;
 
       ++counter;
