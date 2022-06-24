@@ -21,6 +21,12 @@ a {
   text-decoration: none;
 }
 
+b {
+  color: #b463d9;
+  background-color: #0000002a;
+  text-decoration: none;
+}
+
 body,
 input {
   color: #e4e3e3;
@@ -28,7 +34,7 @@ input {
 }
 
 @font-face {
-  font-family: courier_regular;
+  font-family: "Courier New", Courier, monospace;
   src: url("../others/Consolas.ttf");
 }
 
