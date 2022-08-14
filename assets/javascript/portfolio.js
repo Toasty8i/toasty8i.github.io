@@ -350,6 +350,8 @@ const skipIntro = () => {
   });
 
   $(".top-right").remove();
+  
+  $(".middle").remove();
 
   $("#main").fadeOut(100, () => {
     $("#main").remove();
