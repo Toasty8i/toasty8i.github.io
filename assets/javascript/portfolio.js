@@ -88,6 +88,7 @@ $(document).ready(() => {
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
+      );
     $("#marquee").append(
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
