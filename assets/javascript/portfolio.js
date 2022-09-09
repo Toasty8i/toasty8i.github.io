@@ -174,7 +174,7 @@ $(document).ready(() => {
       </video>`
     );
 
-    app.shouldIgnoreVideo = true;
+    app.shouldIgnoreVideo = false;
   }
 
   app.titleChanger(["toasty8i.github.io"]);
