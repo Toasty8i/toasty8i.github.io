@@ -168,11 +168,7 @@ $(document).ready(() => {
   }
 
   if (mobileAndTabletCheck()) {
-    $("#background").replaceWith(
-      `<video autoplay muted loop id="background">
-      <source src="assets/others/ufo.mp4" type="video/mp4" />
-      </video>`
-    );
+    $('#background').replaceWith('<div id="background" style="background-image: url(assets/images/mobile-background.jpg);"></div>');
 
     app.shouldIgnoreVideo = false;
   }
