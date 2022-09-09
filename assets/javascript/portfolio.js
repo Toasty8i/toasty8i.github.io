@@ -170,7 +170,7 @@ $(document).ready(() => {
   if (mobileAndTabletCheck()) {
     $('#background').replaceWith('<div id="background" style="background-image: url(assets/images/mobile-background.gif);"></div>');
 
-    app.shouldIgnoreVideo = false;
+    app.shouldIgnoreVideo = true;
   }
 
   app.titleChanger(["toasty8i.github.io"]);
