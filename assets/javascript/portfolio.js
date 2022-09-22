@@ -254,7 +254,7 @@ $.getJSON(ipgeolocation, (data) => {
   writeLine(
     [
       "Authenticating...",
-      "Granting access to <span style='font-size: 14px; color: #06d;'>[toasty8i.github.io]</span>...",
+      "Granting access to <span style='font-size: 14px; color: #06d;'>[toasty.ga]</span>...",
     ],
     30,
     () => {
