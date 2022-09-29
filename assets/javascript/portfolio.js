@@ -173,7 +173,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(["toasty.ga, ykke"]);
+  app.titleChanger(["toasty.ga"]);
   app.iconChanger([
     "assets/icons/roses/rose1.jpg",
     "assets/icons/roses/rose2.jpg",
