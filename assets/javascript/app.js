@@ -23,7 +23,7 @@ class _app {
     "jello",
   ];
   brandDescription = [
-    "professional moderator",
+    "wannabe discord developer",
     "trashtalker",
     "steam artwork designer",
     "full time money waster",
