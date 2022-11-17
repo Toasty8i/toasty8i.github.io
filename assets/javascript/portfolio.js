@@ -57,7 +57,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -66,7 +66,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -75,7 +75,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -84,7 +84,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -93,7 +93,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -102,7 +102,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -111,7 +111,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -120,7 +120,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -129,7 +129,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -138,7 +138,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -147,7 +147,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -156,7 +156,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://discord.gg/qEKdBaz7VD" target="_BLANK"> « discord »     </a>`
+      `<a href="https://discord.gg/wGH5GWQ9TX" target="_BLANK"> « discord »     </a>`
     );
 
     link = $("#marquee").children("a").last();
