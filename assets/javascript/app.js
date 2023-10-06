@@ -23,7 +23,6 @@ class _app {
     "trashtalker",
     "steam artwork designer",
     "full time money waster",
-    "contact: toasty@teamaggro.dev",
   ];
 
   titleChanger = (text, delay) => {

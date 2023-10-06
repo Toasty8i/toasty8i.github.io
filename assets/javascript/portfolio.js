@@ -28,7 +28,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -37,7 +37,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -46,7 +46,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -55,7 +55,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -64,7 +64,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -73,7 +73,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -82,7 +82,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -91,7 +91,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -100,7 +100,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -109,7 +109,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -118,7 +118,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
     $("#marquee").append(
       `<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`
@@ -127,7 +127,7 @@ $(document).ready(() => {
       `<a href="https://github.com/toasty8i" target="_BLANK"> « github »     </a>`
     );
     $("#marquee").append(
-      `<a href="https://modlookup.3v.fi/u/toasty8i" target="_BLANK"> « modlookup »     </a>`
+      `<a href="https://toasty8i.github.io/webhookspammer" target="_BLANK"> « webhookspammer »     </a>`
     );
 
     link = $("#marquee").children("a").last();
